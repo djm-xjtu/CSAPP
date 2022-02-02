@@ -10,5 +10,4 @@
 ./hex2raw < phase_n.txt | ./rtarget -q
 ~~~
 
-- Reading materials
-[click me to see the materials](https://zhuanlan.zhihu.com/p/28476993)
+- [Reading materials](https://zhuanlan.zhihu.com/p/28476993)
